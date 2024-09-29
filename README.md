@@ -1,6 +1,7 @@
 # Sistema de Gerenciamento de Usuários
 
 Este projeto consiste em uma API de backend desenvolvida em Java com Spring Boot para o gerenciamento de usuários. A aplicação inclui operações de criação, consulta, atualização e exclusão (CRUD) de usuários e está configurada para ser executada em um ambiente Docker, oferecendo fácil configuração e deploy. A API também possui documentação interativa disponível via Swagger.
+- O Desenho de Arquitetura está na raiz do projeto no arquivo: Desenho de Arquitetura.png
 
 ## Funcionalidades
 
